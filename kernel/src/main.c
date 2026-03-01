@@ -6,5 +6,6 @@ int main(int argc, char* argv[]) {
     int cambio;
     int cambio2;
     int cambio3 = 5;
+    int cambio4 = 3;
     return 0;
 }
